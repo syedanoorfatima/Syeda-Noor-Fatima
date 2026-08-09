@@ -1,120 +1,18 @@
-# 👋 Hi, I'm Syeda Noor Fatima
+# 💫 About Me:
+# 👋 Hi, I'm Syeda Noor Fatima<br><br>### 💻 MERN Stack Developer | Full Stack Web Developer<br><br>🚀 Passionate about building modern, responsive, and scalable web applications.<br><br>I am a dedicated **MERN Stack Developer** focused on creating clean, user-friendly, and high-performance web experiences. I enjoy turning ideas into real-world applications and continuously improving my development skills through practical projects.<br><br>---<br><br>## 👩‍💻 About Me<br><br>- 💻 MERN Stack Developer<br>- ⚛️ Passionate about React.js and modern frontend development<br>- 🟢 Learning and building with Node.js & Express.js<br>- 🍃 Working with MongoDB and database-driven applications<br>- 🎨 Interested in responsive UI/UX design<br>- 🚀 Building real-world projects to strengthen my development skills<br>- 🤝 Open to freelance projects, internships, collaborations, and development opportunities<br>- 📚 Continuously learning new technologies and best practices<br><br>---<br><br>## 🛠️ Tech Stack<br><br>### 🌐 Frontend<br><br><p><br>  <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br></p><br><br>### ⚙️ Backend<br><br><p><br>  <img src="https://skillicons.dev/icons?i=nodejs,express" /><br></p><br><br>### 🗄️ Database<br><br><p><br>  <img src="https://skillicons.dev/icons?i=mongodb" /><br></p><br><br>### 🔧 Tools & Technologies<br><br><p><br>  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" /><br></p><br><br>---<br><br>## 🚀 Featured Projects<br><br>### 🛒 Amazon Clone<br><br>A responsive Amazon-inspired e-commerce website built using HTML, CSS, and JavaScript.<br><br>**Features:**<br>- 🔎 Product search<br>- 🏷️ Product categories<br>- 🛒 Shopping cart<br>- ➕ Quantity management<br>- 💰 Dynamic cart total<br>- 💾 LocalStorage<br>- 🎯 Today's Deals<br>- 🎞️ Hero image slider<br>- 📱 Responsive design<br>- 🔔 Interactive notifications<br><br>**Tech:** `HTML` `CSS` `JavaScript` `LocalStorage`<br><br>---<br><br>### 💼 Personal Developer Portfolio<br><br>A modern and responsive portfolio website created to showcase my skills, services, projects, and development journey.<br><br>**Features:**<br>- 🏠 Home section<br>- 👩‍💻 About Me<br>- 🛠️ Technical Skills<br>- 💼 Services<br>- 📂 Projects<br>- 📞 Contact section<br>- 📱 Responsive design<br>- ✨ Smooth animations<br>- 🔗 Social media integration<br><br>**Tech:** `HTML` `CSS` `JavaScript`<br><br>---<br><br>### 📄 AI Resume Builder<br><br>A full-stack application concept designed to help users create professional resumes with AI assistance.<br><br>**Planned Features:**<br>- 🤖 AI-generated resume content<br>- 📄 Multiple resume templates<br>- 🔐 Authentication<br>- 📊 User dashboard<br>- 📥 PDF export<br>- 📈 Resume analytics<br>- 📝 CRUD functionality<br><br>**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `OpenAI API`<br><br>---<br><br>## 📚 Currently Learning<br><br>```text<br>React.js<br>Node.js<br>Express.js<br>MongoDB<br>REST APIs<br>Authentication<br>Git & GitHub<br>Full Stack Development
 
-### 💻 MERN Stack Developer | Full Stack Web Developer
 
-🚀 Passionate about building modern, responsive, and scalable web applications.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/syedanoorfatima22?igsh=ZWRpdDNtcTk5ejY4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/syeda-noor-fatima-webdeveloper) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@SYEDA NOOR FATIMA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedanoorulanfatimarizvi@gmail.com) 
 
-I am a dedicated **MERN Stack Developer** focused on creating clean, user-friendly, and high-performance web experiences. I enjoy turning ideas into real-world applications and continuously improving my development skills through practical projects.
-
----
-
-## 👩‍💻 About Me
-
-- 💻 MERN Stack Developer
-- ⚛️ Passionate about React.js and modern frontend development
-- 🟢 Learning and building with Node.js & Express.js
-- 🍃 Working with MongoDB and database-driven applications
-- 🎨 Interested in responsive UI/UX design
-- 🚀 Building real-world projects to strengthen my development skills
-- 🤝 Open to freelance projects, internships, collaborations, and development opportunities
-- 📚 Continuously learning new technologies and best practices
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Syeda Noor Fatima&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Syeda Noor Fatima&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Syeda Noor Fatima&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Syeda Noor Fatima&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 Amazon Clone
-
-A responsive Amazon-inspired e-commerce website built using HTML, CSS, and JavaScript.
-
-**Features:**
-- 🔎 Product search
-- 🏷️ Product categories
-- 🛒 Shopping cart
-- ➕ Quantity management
-- 💰 Dynamic cart total
-- 💾 LocalStorage
-- 🎯 Today's Deals
-- 🎞️ Hero image slider
-- 📱 Responsive design
-- 🔔 Interactive notifications
-
-**Tech:** `HTML` `CSS` `JavaScript` `LocalStorage`
-
----
-
-### 💼 Personal Developer Portfolio
-
-A modern and responsive portfolio website created to showcase my skills, services, projects, and development journey.
-
-**Features:**
-- 🏠 Home section
-- 👩‍💻 About Me
-- 🛠️ Technical Skills
-- 💼 Services
-- 📂 Projects
-- 📞 Contact section
-- 📱 Responsive design
-- ✨ Smooth animations
-- 🔗 Social media integration
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
-
-### 📄 AI Resume Builder
-
-A full-stack application concept designed to help users create professional resumes with AI assistance.
-
-**Planned Features:**
-- 🤖 AI-generated resume content
-- 📄 Multiple resume templates
-- 🔐 Authentication
-- 📊 User dashboard
-- 📥 PDF export
-- 📈 Resume analytics
-- 📝 CRUD functionality
-
-**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `OpenAI API`
-
----
-
-## 📚 Currently Learning
-
-```text
-React.js
-Node.js
-Express.js
-MongoDB
-REST APIs
-Authentication
-Git & GitHub
-Full Stack Development
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

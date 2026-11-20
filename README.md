@@ -1,54 +1,79 @@
+<div align="center">
+
 # 👋 Hi, I'm Syeda Noor Fatima
 
-### MERN Stack Developer | Web Developer
+### MERN Stack Developer | Frontend & Full-Stack Web Developer
 
-I enjoy building modern, responsive, and user-friendly web experiences. I am developing my skills through hands-on projects and continuous learning across frontend and backend technologies.
+Building responsive, user-friendly web experiences and learning by creating practical projects.
 
+[![GitHub followers](https://img.shields.io/github/followers/syedanoorfatima?label=Follow&style=social)](https://github.com/syedanoorfatima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/syeda-noor-fatima-webdeveloper)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/syedanoorfatima22)
 
-## 🌐 Live Demo
+</div>
 
-No public demo URL is currently listed for this repository. Add your deployment URL here when it is ready.
+---
 
+## 👩‍💻 About Me
+
+- 💻 Focused on MERN stack and modern web development
+- ⚛️ Building interfaces with React and JavaScript
+- 🟢 Learning backend development with Node.js and Express
+- 🍃 Practicing database-driven applications with MongoDB
+- 🎨 Interested in responsive UI and clean user experiences
+- 🤝 Open to internships, freelance projects, and collaboration
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML5, CSS3, JavaScript, React  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, VS Code, npm
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🚀 Featured Projects
 
-### 🛒 Amazon-Inspired E-Commerce Clone
-A frontend e-commerce practice project featuring product browsing, search, cart interactions, and responsive layouts. Built with HTML, CSS, and JavaScript.
+| Project | Description | Technologies |
+|---|---|---|
+| [Amazon-Inspired E-Commerce](https://github.com/syedanoorfatima/-Amazon-Clone-E-Commerce-Website) | Product browsing and shopping-cart frontend | HTML, CSS, JavaScript |
+| [Dream Job Portal](https://github.com/syedanoorfatima/Dream-Job-Portal) | Job listings and company information website | HTML, CSS, JavaScript |
+| [Job Portal Website](https://github.com/syedanoorfatima/Job-Portal-Website1) | Responsive job portal interface | HTML, CSS, JavaScript |
+| [Furniro Website](https://github.com/syedanoorfatima/Furniro-Website) | Furniture shopping website concept | HTML, CSS, JavaScript |
+| [Developer Portfolio](https://github.com/syedanoorfatima/Portfolio) | Personal portfolio website | Web technologies |
 
-### 💼 Developer Portfolio
-A personal website to showcase my skills, services, projects, and contact details.
+## 📊 GitHub Activity
 
-### 💼 Dream Job Portal
-A job-search website project with job listings, categories, company information, and interactive page elements.
+<div align="center">
 
-### 🛋️ Furniture Website
-A furniture-themed website project focused on presenting home and living products.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedanoorfatima&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedanoorfatima&layout=compact&hide_border=true&theme=tokyonight)
 
-## 📚 Currently Learning
+</div>
 
-- React.js and component-based UI development
-- Node.js and Express.js
-- MongoDB and database-driven applications
-- REST APIs and authentication concepts
-- Responsive design and accessible interfaces
+## 📫 Connect With Me
 
-## 🤝 Connect With Me
-
-- [GitHub](https://github.com/syedanoorfatima)
-- [LinkedIn](https://www.linkedin.com/in/syeda-noor-fatima-webdeveloper)
-- [Instagram](https://www.instagram.com/syedanoorfatima22)
+- **GitHub:** [@syedanoorfatima](https://github.com/syedanoorfatima)
+- **LinkedIn:** [Syeda Noor Fatima](https://www.linkedin.com/in/syeda-noor-fatima-webdeveloper)
+- **Instagram:** [@syedanoorfatima22](https://www.instagram.com/syedanoorfatima22)
 
 ---
-*Open to learning opportunities, internships, freelance projects, and collaboration.*
 
+<div align="center">
 
-## 📸 Screenshots
+*Thanks for visiting my GitHub profile!*
 
-Screenshots are not yet included in this repository README. Add genuine screenshots of the running project in a `screenshots/` folder and link them here so visitors can preview the actual interface.
+</div>

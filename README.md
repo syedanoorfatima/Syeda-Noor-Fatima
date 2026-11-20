@@ -4,6 +4,12 @@
 
 I enjoy building modern, responsive, and user-friendly web experiences. I am developing my skills through hands-on projects and continuous learning across frontend and backend technologies.
 
+
+## 🌐 Live Demo
+
+No public demo URL is currently listed for this repository. Add your deployment URL here when it is ready.
+
+
 ## 🛠️ Tech Stack
 
 **Frontend:** HTML5, CSS3, JavaScript, React  
@@ -41,3 +47,8 @@ A furniture-themed website project focused on presenting home and living product
 
 ---
 *Open to learning opportunities, internships, freelance projects, and collaboration.*
+
+
+## 📸 Screenshots
+
+Screenshots are not yet included in this repository README. Add genuine screenshots of the running project in a `screenshots/` folder and link them here so visitors can preview the actual interface.
